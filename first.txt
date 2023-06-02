@@ -5,3 +5,4 @@ Gitの練習をしてきます。
 ・git rm
 ・git status
 ・git diff
+gitの練習中
